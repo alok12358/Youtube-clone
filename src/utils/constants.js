@@ -31,3 +31,4 @@ export const categories = [
     { name: "Help", icon: <FiHelpCircle />, type: "menu" },
     { name: "Send feedback", icon: <RiFeedbackLine />, type: "menu" },
 ];
+// f79a04d4d6msh5db574ab01b9fc9p162b05jsn3868194e0e88
